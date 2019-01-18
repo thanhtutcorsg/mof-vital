@@ -1,0 +1,44 @@
+##################################
+#                                #
+# Feel free to edit this file :) #
+#                                #
+##################################
+
+- title: Who We Are
+  url: /who-we-are/overview/
+  sub-links:
+  - title: Overview
+    url: /who-we-are/overview/
+  - title: Milestones
+    url: /who-we-are/milestones/
+  - title: Management
+    url: /who-we-are/management/
+  - title: Partners
+    url: /who-we-are/partners/
+- title: Our Portfolio
+  url: /our-portfolio/services/
+  sub-links:
+  - title: Services
+    url: /our-portfolio/services/
+  - title: Innovation Improvement
+    url: /our-portfolio/innovation-improvement/
+  - title: For Suppliers
+    url: /our-portfolio/for-suppliers/
+- title: Career
+  url: /career/being-vital/
+  sub-links:
+  - title: Being Vital
+    url: /career/being-vital/
+  - title: Our Vitalites
+    url: /career/our-vitalites/
+- title: Resource Room
+  url: /resource-room/
+  sub-links:
+  - title: All
+    url: /resource-room/
+  - title: Subcategory A
+    url: /resource-room/subcategory-A/
+  - title: Subcategory B
+    url: /resource-room/subcategory-B/
+  - title: Subcategory C
+    url: /resource-room/subcategory-C/
